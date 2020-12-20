@@ -75,5 +75,55 @@ algebraica de las corrientes que entran a un nodo es cero.
 Matemáticamente podemos expresarla como:
 
 
-**Table of Contents**
+![](https://unpoquillodetodo.files.wordpress.com/2015/02/art096-kirchoff-fig1.jpg)
+
+
+#### 5.1 Explicación
+El circuito eléctrico está compuesto por una fuente voltaje de 10 V, una resistencia de 1
+kΩ, otra de 1.8 kΩ, una más de 3.9 kΩ y por último dos más de 2.2 kΩ.
+Para el armado del circuito, primero se conectó el polo positivo de la fuente de voltaje la
+primera resistencia de 1 kΩ, para continuar se conectan las resistencias de 2.2 kΩ y 3.9
+kΩ a la terminal negativa de la primera resistencia, formando así un solo nodo que conecta
+las tres resistencias, a una cuarta resistencia de 2.2 kΩ se le conecta en serie con la
+resistencia previamente conectada de 2.2 kΩ, quedándonos la terminal negativa de la
+cuarta resistencia para conectarla a la negativa de la resistencia 3.9 kΩ formando un solo
+nodo, por último el ultimo nodo formado se le conecta a la resistencia de 1.8 kΩ en una
+terminal y la otra va a la polaridad negativa de la fuente de voltaje.
+Este es un circuito mixto, que quiere decir que se usan simultáneamente las conexiones
+en paralelo y en serie para los resistores eléctricos y estos a su vez se conectan a la fuente
+de tensión.
+
+#### 7. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+En este laboratorio era necesario tener los conocimientos de las Leyes de Kirchhoff, esto
+era necesario para el éxito de la práctica.
+Para poder medir cada una de las resistencias y llenar satisfactoriamente la tabla 1.1, se
+procedió a configurar el multímetro virtual, obteniendo así un Óhmetro, además de esto
+se retiraron una por una las resistencias del circuito y se las conecto paralelamente con el
+multímetro a fin de obtener la medida correcta.
+Para medir la corriente lo que se hace es conectar en serie la resistencia a medir y el
+multímetro al cual ya fue configurado previamente para que mida la corriente, esto lo
+hacemos con todos y cada uno de los elementos del circuito
+
+#### 11. CONCLUSIONES
+**Conclusiones especificas**
+Se pudo comprobar que la suma de las corrientes que entran en un nodo conformado por
+la unión de dos o más ramas de un circuito es igual a la suma de las corrientes que salen
+del mismo nodo, esto se da por la conservación de la carga.
+Comprobamos además que la suma de las caídas de tensión en un lazo o trayectoria
+cerrados es igual a la suma de los aumentos de tensión en el mismo lazo cerrado.
+Ratificamos además que la medida de las resistencias se lo debe realizar independiente
+del circuito.
+**Conclusión general**
+En suma, podemos decir que las leyes de Kirchhoff tanto como el de las corrientes en un
+nodo y la de las tensiones en un lazo cerrado se cumplen en cualquier circuito que
+contenga fuentes de voltaje, resistencias y las corrientes que pasan por el circuito, esto
+comprueba además que hay una conservación de la carga en todo circuito eléctrico y una
+conservación de la energía, ya que como bien sabemos la energía ni se crea ni se destruye
+solo se transforma y se transfiere. Además, podemos concluir que en toda resistencia
+existe una caída de voltaje, esto nos ayuda de una manera significativa en el cálculo.
+#### 12. BIBLIOGRAFÍA
+Alexander, S. M. (2006). Fundamento de Circuitos Eléctricos (Vol. 3ra Edición). The McGraw-Hill
+Companies Inc. Recuperado el 12 de Diciembre de 2020
+Anónimo. (s.f.). Mí física tres. Obtenido de Tercer corte: Ley de Kirchhoff:
+https://lolala7.wordpress.com/tercer-corte/
 
