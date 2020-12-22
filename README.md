@@ -132,7 +132,9 @@ de tensión.
 ![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/132479627_217236383175739_1902062931191202994_n.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_eui2=AeEv1ovkOpp-SCiGZSbzJ_HrpQWBYJHZZrqlBYFgkdlmuidgAekmQLgDjrId3gBfL4vAvM9Q7izGLvWCrJQmzgu2&_nc_ohc=aie1InKjfsAAX-wIV_G&_nc_ht=scontent.fuio16-1.fna&oh=287c9a33907d816c188a8a678f0aa91f&oe=60088EA0)
 
 ![](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/132500529_217236376509073_2117480171907919355_n.jpg?_nc_cat=105&ccb=2&_nc_sid=730e14&_nc_eui2=AeFGyofnZAbYAc4YRcqQd4Qd3vxt2XfW9GXe_G3Zd9b0ZSsjU64Cx_fw_RQgbY6b2uXL-dFtDvtdiaulgWLSe7CN&_nc_ohc=KzXiadh9vq0AX_NA0gw&_nc_ht=scontent.fuio16-1.fna&oh=709e5d589d7f1e3294ef625bf8bbb38f&oe=60051906)
+
 ####9.Cálculos.
+Adjuntados en pdf
 
 #### 7. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 En este laboratorio era necesario tener los conocimientos de las Leyes de Kirchhoff, esto
