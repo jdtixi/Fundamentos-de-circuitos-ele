@@ -77,6 +77,36 @@ Matemáticamente podemos expresarla como:
 
 ![](https://unpoquillodetodo.files.wordpress.com/2015/02/art096-kirchoff-fig1.jpg)
 
+Segunda Ley: Ley de Voltaje de Kirchhoff
+La ley de voltaje de Kirchhoff está basada en el principio de conservación de la energía,
+lo cual implica que la suma algebraica de la energía producida dentro de un sistema
+siempre permanece constante. Dicho de otra manera, la suma algebraica de las
+diferencias de potencial eléctrico en un circuito cerrado es igual a cero.
+Matemáticamente podemos expresarla como:
+∑𝐸 = ∑𝐼 . 𝑅
+Si el sumatorio del segundo miembro lo pasamos al primer miembro nos queda:
+∑𝐸 − ∑𝐼 .𝑅 = 0
+También es importante tomar en consideración el convenio de signos para la tensión y
+para la caída de tensión.
+
+∑𝐸 = ∑𝐼 .𝑅
+𝐸1 = 𝐼1
+. 𝑅1 + 𝐼1
+. 𝑅2 + 𝐼1
+. 𝑅3
+𝐸1 − 𝐼1
+. 𝑅1 − 𝐼1
+. 𝑅2 − 𝐼1
+. 𝑅3 = 0
+∑𝐸 − ∑𝐼 .𝑅 = 0
+
+
+Tercera Ley: Ley de Kirchhoff
+Algunos científicos aseguran la existencia de un total de tres leyes de Kirchhoff, sin
+embargo, es importante clarificar que el físico alemán solamente formulo las 2 leyes
+vistas con anterioridad en este informe. No obstante, la relación aritmética entre la
+corriente y la atención permite inferir una tercera ley. 
+
 
 #### 5. Lista de componentes
 
