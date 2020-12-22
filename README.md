@@ -170,3 +170,5 @@ Companies Inc. Recuperado el 12 de Diciembre de 2020
 Anónimo. (s.f.). Mí física tres. Obtenido de Tercer corte: Ley de Kirchhoff:
 https://lolala7.wordpress.com/tercer-corte/
 
+
+
