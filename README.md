@@ -41,8 +41,6 @@ podemos calcularlos en cualquier elemento que forme parte del circuito. Estas le
 fueron formuladas por el matemático y físico alemán Gustav Kirchhoff en 1845, consta
 básicamente de dos leyes: ley de corriente y ley de tensión.
 
-![](https://i2.wp.com/www.biografiasyvidas.com/biografia/k/fotos/kirchhoff.jpg?zoom=2)
-IIIMAGEN  
 
 ![](https://scontent.fuio4-1.fna.fbcdn.net/v/t1.0-9/132392803_218890763143322_5057104653764424775_o.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=ZkgXK2Uo79kAX9dtRXU&_nc_ht=scontent.fuio4-1.fna&oh=3d2b14f473181315e55c53d961fe89d2&oe=600751C5)
 
