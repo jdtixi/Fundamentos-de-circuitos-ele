@@ -167,6 +167,7 @@ de tensión.
 Adjuntados en pdf
 
 #### 7. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+
 En este laboratorio era necesario tener los conocimientos de las Leyes de Kirchhoff, esto
 era necesario para el éxito de la práctica.
 Para poder medir cada una de las resistencias y llenar satisfactoriamente la tabla 1.1, se
@@ -178,6 +179,7 @@ multímetro al cual ya fue configurado previamente para que mida la corriente, e
 hacemos con todos y cada uno de los elementos del circuito
 
 #### 11. CONCLUSIONES
+
 **Conclusiones especificas**
 Se pudo comprobar que la suma de las corrientes que entran en un nodo conformado por
 la unión de dos o más ramas de un circuito es igual a la suma de las corrientes que salen
@@ -194,6 +196,7 @@ comprueba además que hay una conservación de la carga en todo circuito eléctr
 conservación de la energía, ya que como bien sabemos la energía ni se crea ni se destruye
 solo se transforma y se transfiere. Además, podemos concluir que en toda resistencia
 existe una caída de voltaje, esto nos ayuda de una manera significativa en el cálculo.
+
 #### 12. BIBLIOGRAFÍA
 Alexander, S. M. (2006). Fundamento de Circuitos Eléctricos (Vol. 3ra Edición). The McGraw-Hill
 Companies Inc. Recuperado el 12 de Diciembre de 2020
